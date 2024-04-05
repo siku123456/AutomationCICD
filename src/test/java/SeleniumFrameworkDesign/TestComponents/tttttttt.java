@@ -16,6 +16,7 @@ import SeleniumFrameworkDesign.resources.ExtentReporterNG;
 public class tttttttt extends BaseTest implements ITestListener{
 	
 	//System.out.println("Test passed");
+	//integration code for test cicd repo
 	
 	ExtentReports extent=ExtentReporterNG.getReportObject();
 	ExtentTest test;
